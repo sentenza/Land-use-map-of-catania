@@ -8,3 +8,8 @@ I stripped the unnecessary information about other cities, then reprojected and 
 
 The source file is disposable at http://tinyurl.com/khxrx35
 
+## Embedding GeoJSON elsewhere ##
+
+You could check the [github documentation](https://help.github.com/articles/mapping-geojson-files-on-github) for using 
+the GeoJSON object in your Javascript application.
+
